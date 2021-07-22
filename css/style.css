@@ -193,7 +193,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background-size: cover;
 	-o-background-size: cover;
 }
-.intro .overlay {
+.overlay {
 	background-image: url(img/landing-background.png) !important;
 }
 .intro h1 {
